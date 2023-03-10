@@ -1,2 +1,5 @@
 # ppi_04
-Repositorio programación para la ingeniería
+
+José Daniel Londoño Londoño
+Michael Garcia Quincos
+Diego Alejandro Cárdenas Henao
