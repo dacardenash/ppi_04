@@ -25,8 +25,8 @@ manejar solicitudes y respuestas HTTP.
 ##3.3 Librerías disponibles
 
 SQLAlchemy
-en Python asociarlas a tablas en bases de datos relacionales. En la mayoría de ocasiones
 Es un kit de herramientas SQL y un ORM(Object Relational Mapper) que permite a las clases 
+en Python asociarlas a tablas en bases de datos relacionales. En la mayoría de ocasiones
 no es necesario usar el lenguaje SQL y permite mantener la independencia de la base de datos,
 ya que permite el cambio de motor de base de datos.
 
