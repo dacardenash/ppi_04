@@ -15,6 +15,8 @@ empresas ,lo que permite que gestionen objetos perdidos de manera mas efectiva.
 
 #3.2Software open source
 
-Django
+Django es un framework para python utilizado en en desarrollo web de aplicaciones de forma
+rapida y eficiente.Brinda una gran variedad de herramientas y bibliiotecas incorporadas para 
+realizar tareas comunes de desarrollo web como autenticacion de usuarios y creacion de formularios.
 
-Flask
+Flask es un microframewrok ,el cual se centra en la manejabilidad y flexibilidad.Proporciona herramientas para crear rutas ,manejar solicitudes y respuestas HTTP.
