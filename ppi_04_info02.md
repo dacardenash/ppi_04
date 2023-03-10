@@ -12,3 +12,8 @@ objetos encontrados.Tambien te permite comunicarte con otros usuarios para aumen
 posibilidades de encontrar tus objetos perdidos y ver la ubicacion de los objetos perdidos 
 en el mapa.Ademas de esto,la aplicacion tambien ofrece servicios de gestion de objetos para 
 empresas ,lo que permite que gestionen objetos perdidos de manera mas efectiva.
+
+#3.2Software open source
+
+Django
+Flask
