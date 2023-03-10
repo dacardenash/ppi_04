@@ -6,7 +6,7 @@ perdidos dentro de las instalaciones de la UNAL-sede Medellin utilizando como pr
 
 
 
-Los desarrolladores de este proyecto son los estudiantes:
+Los desarrolladores de este proyecto son los estudiantes:<br>
 José Daniel Londoño Londoño <br>
 Michael Garcia Quincos <br>
 Diego Alejandro Cárdenas Henao
