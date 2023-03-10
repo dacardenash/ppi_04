@@ -3,4 +3,8 @@
 
 José Daniel Londoño Londoño <br>
 Michael Garcia Quincos <br>
-Diego Alejandro Cárdenas Henao
+Diego Alejandro Cárdenas Henao<br>
+<br>
+<br>
+LICENCIA Licencia Pública General de GNU (GPL) versión 3
+
