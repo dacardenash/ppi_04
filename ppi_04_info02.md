@@ -15,12 +15,15 @@ en el mapa. Además de esto,la aplicación también ofrece servicios de gestión
 empresas, lo que permite que gestionen objetos perdidos de manera más efectiva.
 
 ##3.2 Software open source
+
 Django es un framework para python utilizado en en desarrollo web de aplicaciones de forma
 rápida y eficiente. Brinda una gran variedad de herramientas y bibliotecas incorporadas para 
 realizar tareas comunes de desarrollo web como autenticación de usuarios y creación de formularios.
 
 Flask es un microframewrok,el cual se centra en la manejabilidad y flexibilidad.Proporciona herramientas para crear rutas, 
 manejar solicitudes y respuestas HTTP.
+
+Apache Kafka es una plataforma de streaming de eventos de codigo abierto que permite procesar y transmitir datos en tiempo real a traves de multiples aplicaciones.
 
 ##3.3 Librerías disponibles
 
