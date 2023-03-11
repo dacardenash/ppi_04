@@ -1,6 +1,6 @@
-#Informe
+# Informe
 
-##3.1 Herramientas/aplicativos
+## 3.1 Herramientas/aplicativos
 
 iLost 
 Es una aplicación web que permite buscar, reportar y encontrar objetos perdidos.
@@ -14,7 +14,7 @@ posibilidades de encontrar tus objetos perdidos y ver la ubicación de los objet
 en el mapa. Además de esto,la aplicación también ofrece servicios de gestión de objetos para 
 empresas, lo que permite que gestionen objetos perdidos de manera más efectiva.
 
-##3.2 Software open source
+## 3.2 Software open source
 
 Django es un framework para python utilizado en en desarrollo web de aplicaciones de forma
 rápida y eficiente. Brinda una gran variedad de herramientas y bibliotecas incorporadas para 
@@ -25,7 +25,7 @@ manejar solicitudes y respuestas HTTP.
 
 Apache Kafka es una plataforma de streaming de eventos de codigo abierto que permite procesar y transmitir datos en tiempo real a traves de multiples aplicaciones.
 
-##3.3 Librerías disponibles
+## 3.3 Librerías disponibles
 
 SQLAlchemy
 Es un kit de herramientas SQL y un ORM(Object Relational Mapper) que permite a las clases 
