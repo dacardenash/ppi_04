@@ -2,16 +2,14 @@
 
 ## 3.1 Herramientas/aplicativos
 
-iLost 
-Es una aplicación web que permite buscar, reportar y encontrar objetos perdidos.
+iLost es una aplicación web que permite buscar, reportar y encontrar objetos perdidos.
 Funciona principalmente en países de la comunidad europea y es implementado en 
 municipios, eventos, hoteles, parques de atracciones y medios de transporte.
  
-Lost&Found App
 Lost&Found es una aplicación móvil que te permite encontrar objetos perdidos y registrar
 objetos encontrados.También te permite comunicarte con otros usuarios para aumentar las 
 posibilidades de encontrar tus objetos perdidos y ver la ubicación de los objetos perdidos 
-en el mapa. Además de esto,la aplicación también ofrece servicios de gestión de objetos para 
+en el mapa. Además de esto la aplicación también ofrece servicios de gestión de objetos para 
 empresas, lo que permite que gestionen objetos perdidos de manera más efectiva.
 
 ## 3.2 Software open source
