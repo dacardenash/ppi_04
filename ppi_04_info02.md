@@ -21,15 +21,15 @@ realizar tareas comunes de desarrollo web como autenticación de usuarios y crea
 Flask es un microframework,el cual se centra en la manejabilidad y flexibilidad.Proporciona herramientas para crear rutas, 
 manejar solicitudes y respuestas HTTP.
 
-Apache Kafka es una plataforma de streaming de eventos de codigo abierto que permite procesar y transmitir datos en tiempo real a traves de multiples aplicaciones.
+Apache Kafka es una plataforma de streaming de eventos de codigo abierto que permite procesar y transmitir datos en tiempo real a través de múltiples aplicaciones.
 
 ## 3.3 Librerías disponibles
 
 SQLAlchemy
 Es un kit de herramientas SQL y un ORM(Object Relational Mapper) que permite a las clases 
 en Python asociarlas a tablas en bases de datos relacionales. En la mayoría de ocasiones
-no es necesario usar el lenguaje SQL y permite mantener la independencia de la base de datos,
-ya que permite el cambio de motor de base de datos.
+no es necesario usar el lenguaje SQL, lo que mantiene la independencia de la base de datos
+y permite el cambio de motor de base de datos.
 
 pyodbc
 Es un módulo o biblioteca de python que simplifica el acceso a las bases de datos y que sirve
