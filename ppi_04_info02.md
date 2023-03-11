@@ -34,3 +34,16 @@ pyodbc
 Es un módulo o biblioteca de python que simplifica el acceso a las bases de datos y que sirve
 para la integración de la comunicación con bases de datos.
 
+Pillow
+Agrega soporte para abrir, manipular y guardar muchos formatos de archivo de imagen diferentes.
+Pillow ofrece mejora de la imagen, nitidez, ajuste de brillo, desenfoque y suavizado.
+
+Mathplotlib
+Es una librería para generar gráficas a partir de datos contenidos en listas, vectores y su 
+extensión matemática Numpy.
+
+ 
+
+
+
+
