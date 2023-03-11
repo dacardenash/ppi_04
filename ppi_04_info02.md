@@ -15,6 +15,7 @@ en el mapa. Además de esto,la aplicación también ofrece servicios de gestión
 empresas, lo que permite que gestionen objetos perdidos de manera más efectiva.
 
 ##3.2 Software open source
+
 Django es un framework para python utilizado en en desarrollo web de aplicaciones de forma
 rápida y eficiente. Brinda una gran variedad de herramientas y bibliotecas incorporadas para 
 realizar tareas comunes de desarrollo web como autenticación de usuarios y creación de formularios.
