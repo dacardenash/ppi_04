@@ -50,7 +50,8 @@ extensión matemática Numpy.
 Scikit-learn
 Es una librería de python la cual ayuda en la construcción de modelos de aprendizaje automático, analiza datos, clasifica y agrupa datos con una interfaz sencilla.
 
- 
+Pandas 
+Es una librería de Python la cual nos ayudará a leer y escribir fácilmente ficheros en formato CSV, Excel y bases de datos SQL, nos permitirá acceder a los datos mediante índices o nombres para filas y columnas, ofrecerá métodos para reordenar, dividir y combinar conjuntos de datos y nos permitirá trabajar con series temporales.
 
 
 
