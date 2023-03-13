@@ -47,6 +47,9 @@ Mathplotlib
 Es una librería para generar gráficas a partir de datos contenidos en listas, vectores y su 
 extensión matemática Numpy.
 
+Scikit-learn
+Es una librería de python la cual ayuda en la construcción de modelos de aprendizaje automático, analiza datos, clasifica y agrupa datos con una interfaz sencilla.
+
  
 
 
