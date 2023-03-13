@@ -12,6 +12,10 @@ posibilidades de encontrar tus objetos perdidos y ver la ubicación de los objet
 en el mapa. Además de esto la aplicación también ofrece servicios de gestión de objetos para 
 empresas, lo que permite que gestionen objetos perdidos de manera más efectiva.
 
+Encontrar mi dispositivo: es una aplicación la cual te  ayuda a encontrar tu dispositivo móvil en caso de perderlo o llegase a ser robado, esta aplicación se liga a tu teléfono mediante tu correo electrónico, al estar en uso y buscar tu dispositivo, te brinda la ubicación del teléfono, la posibilidad de bloquearlo y además poder borrar la información que tienes en el teléfono.
+Es similar a nuestra herramienta ya que en ambos se ingresa desde un correo electrónico y te brinda la información exacta de tu pertenencia. 
+
+
 ## 3.2 Software open source
 
 Django es un framework para python utilizado en en desarrollo web de aplicaciones de forma
