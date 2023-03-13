@@ -1,6 +1,6 @@
 # Informe
 
-## 3.1 Herramientas/aplicativos
+## Herramientas/aplicativos
 
 iLost es una aplicación web que permite buscar, reportar y encontrar objetos perdidos.
 Funciona principalmente en países de la comunidad europea y es implementado en 
@@ -16,7 +16,7 @@ Encontrar mi dispositivo: es una aplicación la cual te  ayuda a encontrar tu di
 Es similar a nuestra herramienta ya que en ambos se ingresa desde un correo electrónico y te brinda la información exacta de tu pertenencia. 
 
 
-## 3.2 Software open source
+## Software open source
 
 Django es un framework para python utilizado en en desarrollo web de aplicaciones de forma
 rápida y eficiente. Brinda una gran variedad de herramientas y bibliotecas incorporadas para 
@@ -27,7 +27,7 @@ manejar solicitudes y respuestas HTTP.
 
 Apache Kafka es una plataforma de streaming de eventos de codigo abierto que permite procesar y transmitir datos en tiempo real a través de múltiples aplicaciones.
 
-## 3.3 Librerías disponibles
+## Librerías disponibles
 
 SQLAlchemy
 Es un kit de herramientas SQL y un ORM(Object Relational Mapper) que permite a las clases 
