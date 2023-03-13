@@ -29,28 +29,28 @@ Apache Kafka es una plataforma de streaming de eventos de codigo abierto que per
 
 ## Librerías disponibles
 
-SQLAlchemy
+SQLAlchemy <br>
 Es un kit de herramientas SQL y un ORM(Object Relational Mapper) que permite a las clases 
 en Python asociarlas a tablas en bases de datos relacionales. En la mayoría de ocasiones
 no es necesario usar el lenguaje SQL, lo que mantiene la independencia de la base de datos
 y permite el cambio de motor de base de datos.
 
-pyodbc
+pyodbc <br>
 Es un módulo o biblioteca de python que simplifica el acceso a las bases de datos y que sirve
 para la integración de la comunicación con bases de datos.
 
-Pillow
+Pillow <br>
 Agrega soporte para abrir, manipular y guardar muchos formatos de archivo de imagen diferentes.
 Pillow ofrece mejora de la imagen, nitidez, ajuste de brillo, desenfoque y suavizado.
 
-Mathplotlib
+Mathplotlib <br>
 Es una librería para generar gráficas a partir de datos contenidos en listas, vectores y su 
 extensión matemática Numpy.
 
-Scikit-learn
+Scikit-learn <br>
 Es una librería de python la cual ayuda en la construcción de modelos de aprendizaje automático, analiza datos, clasifica y agrupa datos con una interfaz sencilla.
 
-Pandas 
+Pandas <br>
 Es una librería de Python la cual nos ayudará a leer y escribir fácilmente ficheros en formato CSV, Excel y bases de datos SQL, nos permitirá acceder a los datos mediante índices o nombres para filas y columnas, ofrecerá métodos para reordenar, dividir y combinar conjuntos de datos y nos permitirá trabajar con series temporales.
 
 
